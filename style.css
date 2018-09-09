@@ -62,7 +62,8 @@ background-color:rgb(47,47,47,);
 	background-color:rgba(47,47,47,0.5);
 position:fixed;
 transition: 0.3s;
- border-radius: 5px}
+ border-radius: 5px;
+float:left}
 
 #quadro:hover{background-color:rgb(47,47,47);
 	background-color:rgba(47,47,47,0.5);
