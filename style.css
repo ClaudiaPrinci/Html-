@@ -145,14 +145,15 @@ color: white;
 
 #galleria{
   margin: 5px;
-  padding: 0px}
+  padding: 0px;}
 
   .small {
-    height: 95px;
+    height: 30%;
     width: inherit;
     padding: 13px;
     transition: 1s;
-    border-radius: 20px
+    border-radius: 20px;
+    float: left
   }
 
 #testo{ width:27vh;
