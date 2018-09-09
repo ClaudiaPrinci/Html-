@@ -3,10 +3,11 @@ margin:0%;
 }
 
 body {
-  background-image: url("sfondo.jpg");
+  background-image: url("sfondo.png");
   background-position: center;
   background-size: cover;
 }
+
 li{font-size:15px;   font-family: Helvetica;
   }
 .barra{
